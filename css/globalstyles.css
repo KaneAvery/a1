@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+#banner 
+{ 
+background-color:#BAE2F9;
+text-align:center;
+font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+#navbar 
+{ 
+background-color:#CEE7F5;
+text-align:center;
+font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+#content
+{
+text-align:justify;
+font-size:16px;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+}
+
+#footer
+{
+text-align:left;
+font-size:16px;
+font-style:italic;
+}
+
+body
+{
+	background-color:#EFEFEF;
+}
+
+.cosplayimage1
+{
+	height: auto; 
+    width: auto; 
+    max-width: 600px; 
+    max-height: 600px;
+	margin:auto;
+}
+
+.cosplayimage2
+{
+	height: auto; 
+    width: auto; 
+    max-width: 600px; 
+    max-height: 600px;
+	margin:auto;
+}
