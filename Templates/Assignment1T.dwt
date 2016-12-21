@@ -12,7 +12,7 @@
 </div>
 
 <div id="navbar">
-<h2>About CossiePlay | Events & Activities | Contact Us | Announcments | Links  </h2>
+<h2><a href="../index.html">About CossiePlay</a> | <a href="../events&activities.html">Events & Activities</a> | <a href="../contactus.html">Contact Us</a> | Announcments | Links </h2>
 </div>
 <!-- TemplateBeginEditable name="content" -->
 <div id="content">

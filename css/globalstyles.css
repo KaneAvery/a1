@@ -16,7 +16,6 @@ font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", 
 
 #content
 {
-text-align:justify;
 font-size:16px;
 font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
 }
@@ -28,6 +27,13 @@ font-size:16px;
 font-style:italic;
 }
 
+#form1 
+{ 
+background-color:#CEE7F5;
+text-align:left;
+font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
 body
 {
 	background-color:#EFEFEF;
@@ -37,16 +43,43 @@ body
 {
 	height: auto; 
     width: auto; 
-    max-width: 600px; 
-    max-height: 600px;
+    max-width: 30%; 
+    max-height: 30%;
 	margin:auto;
 }
 
-.cosplayimage2
+.cosplayimage2 
 {
 	height: auto; 
     width: auto; 
-    max-width: 600px; 
-    max-height: 600px;
+    max-width: 30%; 
+    max-height: 30%;
+	margin:auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+.cossieplaypartyimage1
+{
+	height: auto; 
+    width: auto; 
+    max-width: 30%; 
+    max-height: 30%;
+	margin:auto;
+}
+
+.cossieplaypartyimage2
+{
+	height: auto; 
+    width: auto; 
+    max-width: 26.5%; 
+    max-height: 26.5%;
 	margin:auto;
 }
