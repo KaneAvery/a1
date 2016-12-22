@@ -34,6 +34,15 @@ text-align:left;
 font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 
+#announcementpic{
+background-position: top right;
+height:150px;
+padding-right: 150px;
+width: 350px;
+float: right;
+margin: 10px;
+}
+
 body
 {
 	background-color:#EFEFEF;
@@ -83,3 +92,10 @@ th, td {
     max-height: 26.5%;
 	margin:auto;
 }
+.exclaimation
+{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 30px;
+}
+
+
