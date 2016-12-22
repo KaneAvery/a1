@@ -55,6 +55,7 @@ body
     max-width: 30%; 
     max-height: 30%;
 	margin:auto;
+	padding-right:6%;
 }
 
 .cosplayimage2 
@@ -64,8 +65,16 @@ body
     max-width: 30%; 
     max-height: 30%;
 	margin:auto;
+	padding-right: 6%;
 }
-
+.cosplayimage3 
+{
+	height: auto; 
+    width: auto; 
+    max-width: 26.5%; 
+    max-height: 26.5%;
+	margin:auto;
+}
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -92,6 +101,9 @@ th, td {
     max-height: 26.5%;
 	margin:auto;
 }
+
+
+
 .exclaimation
 {
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
